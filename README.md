@@ -8,9 +8,9 @@
   <img src=https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white>
 </div> <br> <br>
 <div align="center">
-  <img alt="Overview Report Page" src="assets/overview.png">
-  <img src="assets/monthly.png">
-  <img src="assets/demand_traffic.png">
+  <img width="800" alt="Overview Report Page" src="assets/overview.png">
+  <img width="800" src="assets/monthly.png">
+  <img width="800" src="assets/demand_traffic.png">
 </div>
 <table align="center">
   <tr>
@@ -38,7 +38,7 @@
       <h1 align="center">Executive Summary</h1>
       <h3 align="center">Sales Performance (H1 2026 vs H1 2025)</h3>
       <div align="center">
-        <img width="900" alt="YTD KPI cards" src="assets/metric_overview.png" />
+        <img width="800" alt="YTD KPI cards" src="assets/metric_overview.png" />
       </div>
       <td width="460" valign="top">
         <ol>
@@ -86,7 +86,7 @@
 <h1 align="center">Sales Trend</h1>
 
 <div align="center">
-  <img width="420" src="assets/yoy_monthly_sales.png">
+  <img width="700" src="assets/yoy_monthly_sales.png">
 </div>
 
 <table>
@@ -110,7 +110,7 @@
 </table>
 
 <div align="center">
-  <img width="420" src="assets/metrics_no_sales.png">
+  <img width="700" src="assets/metrics_no_sales.png">
 </div>
 
 <table>
@@ -131,10 +131,10 @@
   <tr>
     <h1 align="center">Store Performance</h1>
     <td width="500">
-      <img width="420" src="assets/sales_by_store.png">
+      <img width="450" src="assets/sales_by_store.png">
     </td>
     <td width="500">
-      <img width="420" src="assets/unit_sold_by_store.png">
+      <img width="450" src="assets/unit_sold_by_store.png">
     </td>
   </tr>
 </table>
@@ -166,7 +166,7 @@
 <h1 align="center">Product & Assortment</h1>
 
 <div align="center">
-  <img width="420" src="assets/sales_by_category.png">
+  <img width="700" src="assets/sales_by_category.png">
 </div>
 
 <table>
@@ -181,7 +181,7 @@
 </table>
 
 <div align="center">
-  <img width="420" src="assets/pareto_category.png">
+  <img width="700" src="assets/pareto_category.png">
 </div>
 
 <table>
@@ -197,7 +197,7 @@
 <h3 align="center">Top 5 Products (June, MoM)</h3>
 
 <div align="center">
-  <img width="450" src="assets/top5.png">
+  <img width="700" src="assets/top5.png">
 </div>
 
 <table>
@@ -213,7 +213,7 @@
 <h3 align="center">Bottom 5 Products (June, MoM)</h3>
 
 <div align="center">
-  <img width="450" src="assets/bottom5.png">
+  <img width="700" src="assets/bottom5.png">
 </div>
 
 <table>
@@ -232,13 +232,13 @@
     <td width="500">
        <div valign="top" align="center">
       <h3>Hourly Traffic Heatmap (June)</h3>
-      <img alt="Traffic heatmap by hour and weekday" src="assets/traffic_heatmap.png" />
+      <img width="450" alt="Traffic heatmap by hour and weekday" src="assets/traffic_heatmap.png" />
     </div>
     </td>
     <td valign="top" width="500">
       <div valign="top" align="center">
         <h3>Sales Peak Calendar (June)</h3>
-        <img alt="Sales peak calendar" src="assets/sales_peak_calendar.png" />
+        <img width="450" alt="Sales peak calendar" src="assets/sales_peak_calendar.png" />
       </div>
     </td>
   </tr>
@@ -340,7 +340,9 @@
 
 <h3 align="center">Dataset Structure</h3>
 
-![data model](assets/erd.png)
+<div align="center">
+  <img width="550" alt="data model" src="assets/erd.png" />
+</div>
 
 <body>The data model consists of four tables: <br>
 1. FACT_Transaction (line-item transaction records: date, time, store, product, unit price, quantity)
