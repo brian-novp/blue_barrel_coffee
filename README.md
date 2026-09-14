@@ -14,7 +14,7 @@
       <h2 align="center">Context</h2>
       <strong>Blue Barrel Coffee</strong> is a New York City coffee retailer operating three cafes: <strong>Astoria</strong>, <strong>Hell's Kitchen</strong>, and <strong>Lower Manhattan</strong>. It sells a variety of products like coffee as their primary product, and tea, also bakery items, drinking chocolate, retail beans, and branded merchandise. <br>
         <br>
-        This report is a pilot project in Blue Barrel Coffe as before this, the company doesn't have a comprehensive report/dashboard that can consolidate sales performance and demand/traffic analysis. Looking at the rise of new coffee shops around NYC, the company take a new approach to utilize sales data that they have (mostly in excel) to make more profound business decisions in hope to strengthen the company grip as the best coffee shop in NYC across three areas. <br><br>A newly appointed Head of Sales and Product decided to recruit one person for data team to make the consolidated report, as a proof of concept before deciding whether to build a data infrastructure to automate the consolidated report. After gathering the requirements, we finally get the available data for start. <br><br>This report is tracked through <strong>18 months</strong> of transaction-level sales data (January 2025 to June 2026), covering roughly <strong>426,000</strong> completed transactions and generating sales revenue exceeding <strong>$2 million</strong> across the period. The available data spans several dimensions, including store, product, category, and time-of-day / day-of-week. <br>
+        This report is a pilot project in Blue Barrel Coffe as before this, the company doesn't have a comprehensive report/dashboard that can consolidate sales performance and demand/traffic analysis. Looking at the rise of new coffee shops around NYC, the company take a new approach to utilize sales data that they have (mostly in excel) to make more profound business decisions in hope to strengthen the company grip as the best coffee shop in NYC across three areas. <br><br>A newly appointed Head of Sales and Product decided to recruit one person for data team to make the consolidated report, as a proof of concept before deciding whether to build a data infrastructure to automate the consolidated report. After gathering the requirements, we finally get the available data to start. [Project Requirement Form](blue_barrel_powerbi_project_request_form.pdf) <br><br>This report is made of <strong>18 months</strong> of transaction-level sales data (January 2025 to June 2026), covering roughly <strong>426,000</strong> completed transactions and generating sales revenue exceeding <strong>$2 million</strong> across the period. The available data in separate excel files, spans several dimensions, including store, product, product category, and transaction date-timestamp. <br>
         <br>Reporting to the Head of Sales and Product, an in-depth analysis was conducted to evaluate <strong>Blue Barrel's</strong> performance over the first half of 2026, benchmarked against the prior year. This report provides insights that leadership and cross-functional teams can use to validate informed business decisions like pricing, staffing, and product assortment decisions. The key insights and recommendations focus on the following areas:
       </body>
       <h3>Northstar Metrics</h3>
@@ -340,7 +340,7 @@
   <img width="550" alt="data model" src="assets/erd.png" />
 </div>
 
-<div align="center">
+<div align="left">
 <body>The data model consists of four tables: <br>
 1. FACT_Transaction (line-item transaction records: date, time, store, product, unit price, quantity)
 <br>
@@ -350,5 +350,8 @@
 <br>
 4. DIM_Date (the date table)
 <br> <br>
+</body></div>
+<div align="justify">
+<body>
 With a total of roughly 426,000 transaction rows spanning January 2025 to June 2026. Findings above are drawn from three Power BI report pages: Sales Overview (YTD), Monthly Analysis (MTD, June 2026), and Demand & Traffic (MTD, June 2026), and every figure was independently reconciled against the raw transaction excel files.</body>
 </div>
