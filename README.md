@@ -333,8 +333,11 @@
 2. Ask the company to give the full data, including customerID, discount (if any) so I can calculate cohort analysis and repurchase rate. <br>
 3. Build a small, automated, cost-optimized data warehouse to consolidate the sales report from POS to create centralized report/dashboard like this, refreshed daily in the morning, including alert for if the sales trend decline.
 
-<h2 align="center"><a href="https://app.powerbi.com/view?r=eyJrIjoiNzY2YTRjMGQtZTY4MS00YzE3LWJkMTItYjlkOTY5YTQ0NzBlIiwidCI6IjZhZGNmYTMzLTRkZWEtNGE5ZC04NTQwLWYwMzI4ZGJjYWYwYSJ9">Live Interactive Dashboard</a></h2>
-<h4 align="center">Available until my powerbi trial expired</h4>
+<h2 align="center">
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiNzY2YTRjMGQtZTY4MS00YzE3LWJkMTItYjlkOTY5YTQ0NzBlIiwidCI6IjZhZGNmYTMzLTRkZWEtNGE5ZC04NTQwLWYwMzI4ZGJjYWYwYSJ9">Live Interactive Dashboard</a>
+  <span style="font-size: 0.55em; font-weight: normal; margin-left: 10px;">(Available until my Power BI trial expires)</span>
+</h2>
+
 
 <h3 align="center">Dataset Structure</h3>
 
