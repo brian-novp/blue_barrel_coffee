@@ -9,6 +9,7 @@
 </div> <br> <br>
 <div align="center">
   <img width=1000 src=https://github.com/brian-novp/blue_barrel_coffee/blob/main/assets/overview.png>
+  <img src="assets/overview.png">
   ![Overview](assets/overview.png) <br>
   ![Monthly](assets/monthly.png) <br>
   ![Demand_Traffic](assets/demand_traffic.png)
