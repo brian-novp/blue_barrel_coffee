@@ -38,7 +38,7 @@
       <h1 align="center">Executive Summary</h1>
       <h3 align="center">Sales Performance (H1 2026 vs H1 2025)</h3>
       <div align="center">
-        <img width="900" alt="YTD KPI cards" src="assets/metric_overview.png" />
+        <img width="900" alt="YTD KPI cards" src="assets/overview_kpis.png" />
       </div>
       <td width="460" valign="top">
         <ol>
@@ -83,12 +83,17 @@
 
 <h1 align="center">Insights Deep-Dive</h1>
 
-<h1 align="center">Sales Trend</h1>
-
-<div align="center">
-  <img width="420" src="assets/yoy_monthly_sales.png">
-</div>
-
+<table align="center">
+  <tr>
+    <h1 align="center">Sales Trend</h1>
+    <td width="1000">
+      <img width="420" src="assets/yoy_monthly_sales.png">
+    </td>
+    <td width="1000">
+      <img width="420" src="assets\transaction_units_sold.png">
+    </td>
+  </tr>
+</table>
 <table>
   <tr>
     <td>
@@ -104,19 +109,6 @@
             <li>In Astoria, the price plummeted from 18USD in Dec 2025 to 8.44USD in Jan 2026 before rose steadily to 9.49USD in Feb 2026, 10.55 USD in Mar 2026 and peaked to 13.71USD in Apr 2026. Then it decreased in May 2026 to 11.60USD and again to 9.49USD in Jun 2026.</li>
           </ul>
         </li>
-      </ol>
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-  <img width="420" src="assets/metrics_no_sales.png">
-</div>
-
-<table>
-  <tr>
-    <td>
-      <ol start="2">
         <li>Transactions and Units Sold show steady increase from Jan to Jun 2026, indicating strong customer demand but different behaviour (due to decreasing AOV and Basket Size in general)
           <ul>
             <li>Although there are some issues in product pricing data across 3 areas, customers still choose to buy from us. But the overall Avg Order Value fell 1.4%. Breaking down on this, it shows that biggest dip of AOV is in Astoria from 44.96USD to 2.85USD (fell 42.5% vs Prev Year), while Hell's Kitchen dip from 4.93USD to 4.26USD (fell 13.6%). In contrast, Lower Manhattan AOV soared from 4.92USD to 7.61USD (rise 54.6%). </li>
@@ -163,63 +155,46 @@
   </tr>
 </table>
 
-<h1 align="center">Product & Assortment</h1>
-
-<div align="center">
-  <img width="420" src="assets/sales_by_category.png">
-</div>
-
+<table align="center">
+  <tr>
+    <h1 align="center">Product & Assortment</h1>
+    <td width="500">
+      <img width="420" src="assets/sales_by_category.png">
+    </td>
+    <td width="500">
+      <img width="420" src="assets/pareto_category.png">
+    </td>
+  </tr>
+</table>
 <table>
   <tr>
     <td>
       <ul>
         <li>Coffee, Tea and Bakery are the revenue core: $279,921 (38.7%), $149,291, and $129,159 respectively, together ~77% of YTD revenue and all three above the $80K average-sales line.</li>
         <li>The Jun 2026 Sales Pareto shows Coffee alone at 57% cumulative, reaching 81% by Tea. The remaining six categories make up the 19% sales.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-  <img width="420" src="assets/pareto_category.png">
-</div>
-
-<table>
-  <tr>
-    <td>
-      <ul>
         <li>Meanwhile, Loose Tea and Packaged Chocolate have the lowest selling product category across 6 months. This shows a clear sign of product replacement/reposition. </li>
       </ul>
     </td>
   </tr>
 </table>
 
-<h3 align="center">Top 5 Products (June, MoM)</h3>
-
-<div align="center">
-  <img width="450" src="assets/top5.png">
-</div>
-
+<table align="center">
+  <tr>
+    <td width="500">
+      <h3>Top 5 Products (June, MoM)</h3>
+      <img width="450" src="assets/top5.png">
+    </td>
+    <td width="500">
+      <h3>Bottom 5 Products (June, MoM)</h3>
+      <img width="450" src="assets/bottom5.png">
+    </td>
+  </tr>
+</table>
 <table>
   <tr>
     <td>
       <ul>
         <li>June's growth was carried entirely by espresso drinks. The Top 5 table is exclusively Barista Espresso items, up 16–23% month-over-month (Cappuccino +22.9%, Jamaican Coffee River Lg +21.4%).</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<h3 align="center">Bottom 5 Products (June, MoM)</h3>
-
-<div align="center">
-  <img width="450" src="assets/bottom5.png">
-</div>
-
-<table>
-  <tr>
-    <td>
-      <ul>
         <li>The Bottom 5 is exclusively Loose Tea, mostly declining (Peppermint -28.9%, Traditional Blend Chai -19.1%, English Breakfast -16.1%), a signal these SKUs need repositioning or replacement.</li>
       </ul>
     </td>
