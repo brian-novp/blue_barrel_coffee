@@ -335,8 +335,7 @@
 
 <h2 align="center">
   <a href="https://app.powerbi.com/view?r=eyJrIjoiNzY2YTRjMGQtZTY4MS00YzE3LWJkMTItYjlkOTY5YTQ0NzBlIiwidCI6IjZhZGNmYTMzLTRkZWEtNGE5ZC04NTQwLWYwMzI4ZGJjYWYwYSJ9">Live Interactive Dashboard</a>
-  <span style="font-size: 0.4em; font-weight: normal;vertical-align: middle; margin-left: 10px;">(Available until my Power BI trial expires)</span>
-</h2>
+</h2> <div align="center">Available until my powerbi trial expires</div>
 
 
 <h3 align="center">Dataset Structure</h3>
