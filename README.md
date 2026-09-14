@@ -1,18 +1,16 @@
 <div align="center">
-  <img width="220px" src="assets/logo.png" />
+  <img width="100px" src="assets/logo.png" />
 </div>
-<h1 align="center">Blue Barrel Coffee - H1 2026 Report</h1> <br>
-
+<h1 align="center">Blue Barrel Coffee</h1> <br>
+<h3 align="center">H1 2026 Report</h3> <br>
 <div align="center">
   <img src=https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white>
   <img src=https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white>
 </div> <br> <br>
 <div align="center">
-  <img width=1000 src=https://github.com/brian-novp/blue_barrel_coffee/blob/main/assets/overview.png>
-  <img src="assets/overview.png">
-  ![Overview](assets/overview.png) <br>
-  ![Monthly](assets/monthly.png) <br>
-  ![Demand_Traffic](assets/demand_traffic.png)
+  <img alt="Overview Report Page" src="assets/overview.png">
+  <img src="assets/monthly.png">
+  <img src="assets/demand_traffic.png">
 </div>
 <table align="center">
   <tr>
