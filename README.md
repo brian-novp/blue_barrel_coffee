@@ -1,8 +1,4 @@
-<div align="center">
-  <img width="100px" src="assets/logo.png" />
-</div>
-<h1 align="center">Blue Barrel Coffee</h1> <br>
-<h3 align="center">H1 2026 Report</h3> <br>
+<h1 align="center">Blue Barrel Coffee H1 2026 Report</h1> <br>
 <div align="center">
   <img src=https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white>
   <img src=https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white>
@@ -35,7 +31,7 @@
 <table align="center">
   <tr>
     <div width="920">
-      <h1 align="center">Executive Summary</h1>
+      <h2 align="center">Executive Summary</h2>
       <h3 align="center">Sales Performance (H1 2026 vs H1 2025)</h3>
       <div align="center">
         <img width="800" alt="YTD KPI cards" src="assets/metric_overview.png" />
@@ -46,7 +42,7 @@
             <strong>Traffic-Led Sales Growth</strong>
             <ul>
               <li>YTD 2026 sales reached $723,464, up 8.3% over H1 2025's $668,150.</li>
-              <li>In our initial analysis, sales growth was carried by more visits.</li> <li>Proven by #Transactions up 10.1%, units sold up 8.7% while Avg Order Value fell 1.7% and Avg Basket Size fell 1.4%.</li>
+              <li>In our initial analysis, we hypothesized that sales growth was carried by more visits.</li> <li>Proven by #Transactions up 10.1%, units sold up 8.7% while Avg Order Value fell 1.7% and Avg Basket Size fell 1.4%.</li>
             </ul>
           </li>
           <li>
@@ -61,7 +57,7 @@
       <td width="460" valign="top">
         <ol start="3">
           <li>
-            <strong>Then we found Lower Manhattan Store Pricing Question</strong>
+            <strong>Then we found Product Pricing Anomaly</strong>
             <ul>
               <li>Lower Manhattan generates 50.2% of sales from only 32.0% of units sold, a gap traced to store-level pricing rather than product mix.</li>
               <li>The size of that gap (up to 2.69x on identical products) is larger than real-world coffee-retail pricing norms, and is flagged for verification rather than presented as confirmed strategy.</li>
@@ -70,9 +66,9 @@
           <li>
             <strong>Key Takeaways & Recommendations</strong>
             <ul>
-              <li>Audit the store-level pricing data before making any pricing decision.</li>
-              <li>Investigate and replicate the June 14 demand surge (explained below) and the consistent 7–10 AM daily traffic peak (for staffing).</li>
-              <li>Rebuild basket size via upsell prompts and review underperforming Loose Tea SKUs.</li>
+              <li>Audit the store-level product pricing data before making any pricing decision.</li>
+              <li>Investigate and replicate the June 14 demand surge (explained below) and revise the staffing to accomodate the consistent 7-10 AM daily traffic peak.</li>
+              <li>Increase basket size via upsell prompts like bundling Barista Espresso product (57% H1 Sales comes from this) with Bakery Product (fell 25.2% MoM as of Jun 2026) and review underperforming Loose Tea SKUs.</li>
             </ul>
           </li>
         </ol>
@@ -81,9 +77,9 @@
   </tr>
 </table>
 
-<h1 align="center">Insights Deep-Dive</h1>
+<h2 align="center">Insights Deep-Dive</h2>
 
-<h1 align="center">Sales Trend</h1>
+<h3 align="center">Sales Trend</h3>
 
 <div align="center">
   <img width="700" src="assets/yoy_monthly_sales.png">
@@ -129,7 +125,7 @@
 
 <table align="center">
   <tr>
-    <h1 align="center">Store Performance</h1>
+    <h3 align="center">Store Performance</h3>
     <td width="500">
       <img width="450" src="assets/sales_by_store.png">
     </td>
@@ -163,7 +159,7 @@
   </tr>
 </table>
 
-<h1 align="center">Product & Assortment</h1>
+<h3 align="center">Product & Assortment</h3>
 
 <div align="center">
   <img width="700" src="assets/sales_by_category.png">
@@ -174,7 +170,6 @@
     <td>
       <ul>
         <li>Coffee, Tea and Bakery are the revenue core: $279,921 (38.7%), $149,291, and $129,159 respectively, together ~77% of YTD revenue and all three above the $80K average-sales line.</li>
-        <li>The Jun 2026 Sales Pareto shows Coffee alone at 57% cumulative, reaching 81% by Tea. The remaining six categories make up the 19% sales.</li>
       </ul>
     </td>
   </tr>
@@ -188,13 +183,14 @@
   <tr>
     <td>
       <ul>
+        <li>The Jun 2026 Sales Pareto shows Coffee alone at 57% cumulative, reaching 81% by Tea. The remaining six categories make up the 19% sales.</li>
         <li>Meanwhile, Loose Tea and Packaged Chocolate have the lowest selling product category across 6 months. This shows a clear sign of product replacement/reposition. </li>
       </ul>
     </td>
   </tr>
 </table>
 
-<h3 align="center">Top 5 Products (June, MoM)</h3>
+<h4 align="center">Top 5 Products (June, MoM)</h4>
 
 <div align="center">
   <img width="700" src="assets/top5.png">
@@ -204,13 +200,13 @@
   <tr>
     <td>
       <ul>
-        <li>June's growth was carried entirely by espresso drinks. The Top 5 table is exclusively Barista Espresso items, up 16–23% month-over-month (Cappuccino +22.9%, Jamaican Coffee River Lg +21.4%).</li>
+        <li>June's growth was carried entirely by espresso drinks. The Top 5 table is exclusively Barista Espresso items, up 16–23% month-over-month (Cappuccino +22.9%, Jamaican Coffee River Lg +21.4%). This is a potential bundling for Bakery product to increase avg basket size and create new Product Attach Rate to get more detailed customer behavior</li>
       </ul>
     </td>
   </tr>
 </table>
 
-<h3 align="center">Bottom 5 Products (June, MoM)</h3>
+<h4 align="center">Bottom 5 Products (June, MoM)</h4>
 
 <div align="center">
   <img width="700" src="assets/bottom5.png">
@@ -220,24 +216,24 @@
   <tr>
     <td>
       <ul>
-        <li>The Bottom 5 is exclusively Loose Tea, mostly declining (Peppermint -28.9%, Traditional Blend Chai -19.1%, English Breakfast -16.1%), a signal these SKUs need repositioning or replacement.</li>
+        <li>The Bottom 5 is exclusively Loose Tea, mostly declining MoM (Peppermint -28.9%, Traditional Blend Chai -19.1%, English Breakfast -16.1%), a signal these SKUs need repositioning or replacement.</li>
       </ul>
     </td>
   </tr>
 </table>
 
 <table align="center">
-  <h1 align="center">Demand & Traffic</h1>
+  <h3 align="center">Demand & Traffic</h3>
   <tr>
     <td width="500">
        <div valign="top" align="center">
-      <h3>Hourly Traffic Heatmap (June)</h3>
+      <h4>Hourly Traffic Heatmap (June)</h4>
       <img width="450" alt="Traffic heatmap by hour and weekday" src="assets/traffic_heatmap.png" />
     </div>
     </td>
     <td valign="top" width="500">
       <div valign="top" align="center">
-        <h3>Sales Peak Calendar (June)</h3>
+        <h4>Sales Peak Calendar (June)</h4>
         <img width="450" alt="Sales peak calendar" src="assets/sales_peak_calendar.png" />
       </div>
     </td>
@@ -344,6 +340,7 @@
   <img width="550" alt="data model" src="assets/erd.png" />
 </div>
 
+<div align="center">
 <body>The data model consists of four tables: <br>
 1. FACT_Transaction (line-item transaction records: date, time, store, product, unit price, quantity)
 <br>
@@ -354,3 +351,4 @@
 4. DIM_Date (the date table)
 <br> <br>
 With a total of roughly 426,000 transaction rows spanning January 2025 to June 2026. Findings above are drawn from three Power BI report pages: Sales Overview (YTD), Monthly Analysis (MTD, June 2026), and Demand & Traffic (MTD, June 2026), and every figure was independently reconciled against the raw transaction excel files.</body>
+</div>
