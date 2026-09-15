@@ -362,7 +362,7 @@ With a total of roughly 426,000 transaction rows spanning January 2025 to June 2
 </div>
 
 <div align="center">
-  <h3>Sanity Check in Excel (Lower Manhattan for example)</h3>
+  <h3>Sanity Check of product price in Excel (Brazilian Coffee in Lower Manhattan for example)</h3>
   <img width="800" alt="sanity check lower manhattan" src="assets/1-brazilian_coffee_dec25_jan26.png" />
   <img width="800" alt="sanity check lower manhattan" src="assets/2-brazillian_coffee_jan26_feb26.png" />
   <img width="800" alt="sanity check lower manhattan" src="assets/3-brazillian_coffee_feb26_mar26.png" />
