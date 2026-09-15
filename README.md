@@ -340,21 +340,21 @@
 </h2> <div align="center">Available until my powerbi trial expires</div>
 
 
-<h3 align="center">Dataset Structure</h3>
+<h3 align="center">Data Modeling in PowerBI</h3>
 
 <div align="center">
   <img width="550" alt="data model" src="assets/erd.png" />
 </div>
 
 <div align="left">
-<body>The data model consists of four tables: <br>
-1. FACT_Transaction (line-item transaction records: date, time, store, product, unit price, quantity)
+<body>The data model in powerbi consists of four tables: <br>
+1. FACT_Transaction (line-item transaction records: date, time, store, product, unit price, quantity) - Comes from excel,cleaned and enriched using PowerQuery
 <br>
-2. DIM_Product (category and subcategory)
+2. DIM_Product (category and subcategory) - Comes from excel,cleaned and enriched using PowerQuery
 <br>
-3. DIM_Store (location name), and
+3. DIM_Store (location name), and - Comes from excel,cleaned and enriched using PowerQuery
 <br>
-4. DIM_Date (the date table)
+4. DIM_Date (the date table) - derived and enriched from FACT_Transaction using M script
 <br> <br>
 </body></div>
 <div align="justify">
