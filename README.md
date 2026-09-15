@@ -170,7 +170,7 @@
   <tr>
     <td>
       <ul>
-        <li>Coffee, Tea and Bakery are the revenue core: $279,921 (38.7%), $149,291, and $129,159 respectively, together ~77% of YTD revenue and all three above the $80K average-sales line.</li>
+        <li>Coffee, Tea and Bakery are the revenue core: $279,921 (38.7%), $149,291, and $129,159 respectively, together ~77% of YTD revenue and all three above the $80K average-sales line. This can be used as a hook for bundling promotion to increase AOV and ABS.</li>
       </ul>
     </td>
   </tr>
@@ -184,7 +184,7 @@
   <tr>
     <td>
       <ul>
-        <li>The Jun 2026 Sales Pareto shows Coffee alone at 57% cumulative, reaching 81% by Tea. The remaining six categories make up the 19% sales.</li>
+        <li>The Jun 2026 Sales Pareto shows Coffee alone at 57% cumulative, reaching 81% by Tea. The remaining six categories make up the 19% sales. This pattern emerged across H1 2026. Store ops can use this data to get detailed information in order to optimize inventory of ingredients to make sure store runs without running out of stock on these product categories, as this will affect customer experience.</li>
         <li>Meanwhile, Loose Tea and Packaged Chocolate have the lowest selling product category across 6 months. This shows a clear sign of product replacement/reposition. </li>
       </ul>
     </td>
@@ -201,7 +201,7 @@
   <tr>
     <td>
       <ul>
-        <li>June's growth was carried entirely by espresso drinks. The Top 5 table is exclusively Barista Espresso items, up 16–23% month-over-month (Cappuccino +22.9%, Jamaican Coffee River Lg +21.4%). This is a potential bundling for Bakery product to increase avg basket size and create new Product Attach Rate to get more detailed customer behavior</li>
+        <li>June's growth was carried entirely by espresso drinks. The Top 5 table is exclusively Barista Espresso items, up 16–23% month-over-month (Cappuccino +22.9%, Jamaican Coffee River Lg +21.4%). This is a potential bundling for Bakery product to increase avg basket size and create new Product Attach Rate to get more detailed customer behavior.</li>
       </ul>
     </td>
   </tr>
@@ -217,7 +217,7 @@
   <tr>
     <td>
       <ul>
-        <li>The Bottom 5 is exclusively Loose Tea, mostly declining MoM (Peppermint -28.9%, Traditional Blend Chai -19.1%, English Breakfast -16.1%), a signal these SKUs need repositioning or replacement.</li>
+        <li>The Bottom 5 is exclusively Loose Tea, mostly declining MoM (Peppermint -28.9%, Traditional Blend Chai -19.1%, English Breakfast -16.1%), a signal these SKUs need repositioning or replacement. Freeing spaces in both menu and inventory for new menu.</li>
       </ul>
     </td>
   </tr>
@@ -247,7 +247,7 @@
         <li>Morning is the peak traffic window, every day of the week. The heaviest traffic clusters 7:00–10:00 AM across all seven days, including Sunday, which is tied with Tuesday for the single busiest hour-slot in the underlying data.</li>
         <li>Traffic tapers steadily through the afternoon after 1:00 PM and thins to near-empty by 18:00–20:00.</li>
         <li>The calendar highlights the week of June 14–20 as an elevated-sales stretch. Sales soared on 14th if compared to the first 2 week of June. Need to ask store manager what happened and can we replicate them.</li>
-        <li>Across 6 months (Jan-Jun 2026), our shop was the busiest in week 3-4 overall. While week 1 and week 2 seldom busy. This is a clear sign for marketing team to create promotion/bundling at the start of the month. </li>
+        <li>Across 6 months (Jan-Jun 2026), our shop was the busiest in week 3-4 overall. While week 1 and week 2 seldom busy. This is a clear sign for marketing team to create promotion/bundling at the start of the month to drive more sales. Make it rain! </li>
       </ul>
     </td>
   </tr>
