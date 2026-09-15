@@ -246,7 +246,7 @@
       <ul>
         <li>Morning is the peak traffic window, every day of the week. The heaviest traffic clusters 7:00–10:00 AM across all seven days, including Sunday, which is tied with Tuesday for the single busiest hour-slot in the underlying data.</li>
         <li>Traffic tapers steadily through the afternoon after 1:00 PM and thins to near-empty by 18:00–20:00.</li>
-        <li>The calendar highlights the week of June 14–20 as an elevated-sales stretch, consistent with the day-14 step-change seen in the Sales by Day chart.</li>
+        <li>The calendar highlights the week of June 14–20 as an elevated-sales stretch. Sales soared on 14th if compared to the first 2 week of June. Need to ask store manager what happened and can we replicate them.</li>
         <li>Across 6 months (Jan-Jun 2026), our shop was the busiest in week 3-4 overall. While week 1 and week 2 seldom busy. This is a clear sign for marketing team to create promotion/bundling at the start of the month. </li>
       </ul>
     </td>
