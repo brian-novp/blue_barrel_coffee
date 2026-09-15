@@ -14,7 +14,7 @@
       <h2 align="center">Context</h2>
       <strong>Blue Barrel Coffee</strong> is a New York City coffee retailer operating three cafes: <strong>Astoria</strong>, <strong>Hell's Kitchen</strong>, and <strong>Lower Manhattan</strong>. It sells a variety of products like coffee as their primary product, and tea, also bakery items, drinking chocolate, retail beans, and branded merchandise. <br>
         <br>
-        This report is a pilot project in Blue Barrel Coffe as before this, the company doesn't have a comprehensive report/dashboard that can consolidate sales performance and demand/traffic analysis. Looking at the rise of new coffee shops around NYC, the company take a new approach to utilize sales data that they have (mostly in excel) to make more profound business decisions in hope to strengthen the company grip as the best coffee shop in NYC across three areas. <br><br>A newly appointed Head of Sales and Product decided to recruit one person for data team to make the consolidated report, as a proof of concept before deciding whether to build a data infrastructure to automate the consolidated report. After gathering the requirements, we finally get the available data to start. <a href="blue_barrel_powerbi_project_request_form.pdf">View Project Request Form</a> <br><br>This report is made of <strong>18 months</strong> of transaction-level sales data (January 2025 to June 2026), covering roughly <strong>426,000</strong> completed transactions and generating sales revenue exceeding <strong>$2 million</strong> across the period. The available data in separate excel files, spans several dimensions, including store, product, product category, and transaction date-timestamp. <br>
+        This report is a pilot project in Blue Barrel Coffe as before this, the company doesn't have a comprehensive report/dashboard that can consolidate sales performance and demand/traffic analysis. Looking at the rise of new coffee shops around NYC, the company take a new approach to utilize sales data that they have (mostly in excel) to make more profound business decisions in hope to strengthen the company grip as the best coffee shop in NYC across three areas. <br><br>A newly appointed Head of Sales and Product decided to recruit one person for data team to make the consolidated report, as a proof of concept before deciding whether to build a data infrastructure to automate the consolidated report. After gathering the requirements, we finally get the available data to start. <a href="blue_barrel_powerbi_project_request_form.pdf">View Project Requirements Form</a> <br><br>This report is made of <strong>18 months</strong> of transaction-level sales data (January 2025 to June 2026), covering roughly <strong>426,000</strong> completed transactions and generating sales revenue exceeding <strong>$2 million</strong> across the period. The available data in separate excel files, spans several dimensions, including store, product, product category, and transaction date-timestamp. <br>
         <br>Reporting to the Head of Sales and Product, an in-depth analysis was conducted to evaluate <strong>Blue Barrel's</strong> performance over the first half of 2026, benchmarked against the prior year. This report provides insights that leadership and cross-functional teams can use to validate informed business decisions like pricing, staffing, and product assortment decisions. The key insights and recommendations focus on the following areas:
       </body>
       <h3>Northstar Metrics</h3>
@@ -312,10 +312,10 @@
     </tr>
     <tr>
       <td align="center">P2</td>
-      <td><strong>Create loyalty program :</strong> To compare the AOV and ABS of customers who joined loyalty program vs non-loyalty program</td>
+      <td><strong>Create loyalty program :</strong> To compare the AOV and ABS of loyalty program vs non-loyalty program customers</td>
       <td>Marketing</td>
-      <td>More detailed customer behavior/segmentation. This would help marketing team to save marketing costs.</td>
-      <td>Cohort Analysis | Repurchase Rate</td>
+      <td>If AOV increased a dollar (target AOV 5.5 USD for loyalty members) and we can get 1000 - 3000 loyalty member who visit at least 2 times a week, we can increase revenue ~100K USD to ~300K USD per annum (10% to 30% increase compared to current recorded revenue).</td>
+      <td>Avg Order Value (target 5.5USD for loyalty members) & Avg Basket Size (target 2 for loyalty members)</td>
     </tr>
     <tr>
       <td align="center">P2</td>
@@ -329,9 +329,10 @@
 
 <h2 align="center">What I would do for next iteration on this project</h2>
 
-1. Ask Store Ops to separate beverage and add ons (coffee + maple syrup for example), to get customer behavior through attach-rate. <br>
+1. Ask Store Ops to separate beverage and add ons (coffee + maple syrup for example), to get customer behavior through product attach-rate. <br>
 2. Ask the company to give the full data, including customerID, discount (if any) so I can calculate cohort analysis and repurchase rate. <br>
-3. Build a small, automated, cost-optimized data warehouse to consolidate the sales report from POS to create centralized report/dashboard like this, refreshed daily in the morning, including alert for if the sales trend decline.
+3. Ask the company to include Cost of Goods Sold (CoGS), staff salary, tax data so I can calculate profitability, instead of just Sales Revenue. It gives management more detailed insights as the strong foundation for business decisions. <br>
+4. Build a small, automated, cost-optimized data warehouse to consolidate the sales report from POS to create centralized report/dashboard like this, refreshed daily in the morning, including alert for if the sales trend decline to reduce time in making informed business decisions from 7 days to 3 days (>50% time reduction)
 
 <h2 align="center">
   <a href="https://app.powerbi.com/view?r=eyJrIjoiNzY2YTRjMGQtZTY4MS00YzE3LWJkMTItYjlkOTY5YTQ0NzBlIiwidCI6IjZhZGNmYTMzLTRkZWEtNGE5ZC04NTQwLWYwMzI4ZGJjYWYwYSJ9">Live Interactive Dashboard</a>
@@ -358,4 +359,14 @@
 <div align="justify">
 <body>
 With a total of roughly 426,000 transaction rows spanning January 2025 to June 2026. Findings above are drawn from three Power BI report pages: Sales Overview (YTD), Monthly Analysis (MTD, June 2026), and Demand & Traffic (MTD, June 2026), and every figure was independently reconciled against the raw transaction excel files.</body>
+</div>
+
+<div align="center">
+  <h3>Sanity Check in Excel</h3>
+  <img width="550" alt="sanity check lower manhattan" src="assets/1-brazilian_coffee_dec25_jan26.png" />
+  <img width="550" alt="sanity check lower manhattan" src="assets/2-brazillian_coffee_jan26_feb26.png" />
+  <img width="550" alt="sanity check lower manhattan" src="assets/3-brazillian_coffee_feb26_mar26.png" />
+  <img width="550" alt="sanity check lower manhattan" src="assets/4-brazillian_coffee_mar26_apr26.png" />
+  <img width="550" alt="sanity check lower manhattan" src="assets/5-brazillian_coffee_apr26_may26.png" />
+  <img width="550" alt="sanity check lower manhattan" src="assets/6-brazillian_coffee_may26_jun26.png" />
 </div>
