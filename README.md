@@ -106,6 +106,16 @@
 </table>
 
 <div align="center">
+  <h3>Sanity Check in Excel (Lower Manhattan for example)</h3>
+  <img width="800" alt="sanity check lower manhattan" src="assets/1-brazilian_coffee_dec25_jan26.png" />
+  <img width="800" alt="sanity check lower manhattan" src="assets/2-brazillian_coffee_jan26_feb26.png" />
+  <img width="800" alt="sanity check lower manhattan" src="assets/3-brazillian_coffee_feb26_mar26.png" />
+  <img width="800" alt="sanity check lower manhattan" src="assets/4-brazillian_coffee_mar26_apr26.png" />
+  <img width="800" alt="sanity check lower manhattan" src="assets/5-brazillian_coffee_apr26_may26.png" />
+  <img width="800" alt="sanity check lower manhattan" src="assets/6-brazillian_coffee_may26_jun26.png" />
+</div>
+
+<div align="center">
   <img width="700" src="assets/metrics_no_sales.png">
 </div>
 
@@ -361,12 +371,3 @@
 With a total of roughly 426,000 transaction rows spanning January 2025 to June 2026. Findings above are drawn from three Power BI report pages: Sales Overview (YTD), Monthly Analysis (MTD, June 2026), and Demand & Traffic (MTD, June 2026), and every figure was independently reconciled against the raw transaction excel files.</body>
 </div>
 
-<div align="center">
-  <h3>Sanity Check in Excel (Lower Manhattan for example)</h3>
-  <img width="800" alt="sanity check lower manhattan" src="assets/1-brazilian_coffee_dec25_jan26.png" />
-  <img width="800" alt="sanity check lower manhattan" src="assets/2-brazillian_coffee_jan26_feb26.png" />
-  <img width="800" alt="sanity check lower manhattan" src="assets/3-brazillian_coffee_feb26_mar26.png" />
-  <img width="800" alt="sanity check lower manhattan" src="assets/4-brazillian_coffee_mar26_apr26.png" />
-  <img width="800" alt="sanity check lower manhattan" src="assets/5-brazillian_coffee_apr26_may26.png" />
-  <img width="800" alt="sanity check lower manhattan" src="assets/6-brazillian_coffee_may26_jun26.png" />
-</div>
