@@ -50,7 +50,7 @@
             <strong>But growth Is Decelerating Month by Month</strong>
             <ul>
               <li>YoY growth peaked in February 2026 (+46.6%), then decayed sharply, turning negative in May (-5.5%) for the first time in the period.</li>
-              <li>June's recovery was only partial (+1.4%), well below the year's earlier pace.</li>
+              <li>June's recovery was only partial (+1.4%), well below the year's earlier pace. This explained below in insights deep dive sales trend.</li>
             </ul>
           </li>
         </ol>
