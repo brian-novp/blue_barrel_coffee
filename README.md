@@ -363,10 +363,10 @@ With a total of roughly 426,000 transaction rows spanning January 2025 to June 2
 
 <div align="center">
   <h3>Sanity Check in Excel</h3>
-  <img width="550" alt="sanity check lower manhattan" src="assets/1-brazilian_coffee_dec25_jan26.png" />
-  <img width="550" alt="sanity check lower manhattan" src="assets/2-brazillian_coffee_jan26_feb26.png" />
-  <img width="550" alt="sanity check lower manhattan" src="assets/3-brazillian_coffee_feb26_mar26.png" />
-  <img width="550" alt="sanity check lower manhattan" src="assets/4-brazillian_coffee_mar26_apr26.png" />
-  <img width="550" alt="sanity check lower manhattan" src="assets/5-brazillian_coffee_apr26_may26.png" />
-  <img width="550" alt="sanity check lower manhattan" src="assets/6-brazillian_coffee_may26_jun26.png" />
+  <img width="800" alt="sanity check lower manhattan" src="assets/1-brazilian_coffee_dec25_jan26.png" />
+  <img width="800" alt="sanity check lower manhattan" src="assets/2-brazillian_coffee_jan26_feb26.png" />
+  <img width="800" alt="sanity check lower manhattan" src="assets/3-brazillian_coffee_feb26_mar26.png" />
+  <img width="800" alt="sanity check lower manhattan" src="assets/4-brazillian_coffee_mar26_apr26.png" />
+  <img width="800" alt="sanity check lower manhattan" src="assets/5-brazillian_coffee_apr26_may26.png" />
+  <img width="800" alt="sanity check lower manhattan" src="assets/6-brazillian_coffee_may26_jun26.png" />
 </div>
