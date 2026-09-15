@@ -354,16 +354,16 @@
 <br>
 3. DIM_Store (location name), and - Comes from excel,cleaned and enriched using PowerQuery
 <br>
-4. DIM_Date (the date table) - derived and enriched from FACT_Transaction using M script
+4. DIM_Date (the date table) - Derived and enriched from FACT_Transaction using M script
 <br> <br>
 </body></div>
 <div align="justify">
 <body>
-With a total of roughly 426,000 transaction rows spanning January 2025 to June 2026. Findings above are drawn from three Power BI report pages: Sales Overview (YTD), Monthly Analysis (MTD, June 2026), and Demand & Traffic (MTD, June 2026), and every figure was independently reconciled against the raw transaction excel files.</body>
+With a total of roughly 426,000 transaction rows spanning January 2025 to June 2026. Findings above are drawn from three Power BI report pages: Sales Overview (YTD), Monthly Analysis (MTD, June 2026), and Demand & Traffic (MTD, June 2026), and every figure was independently reconciled against raw transaction excel files.</body>
 </div>
 
 <div align="center">
-  <h3>Sanity Check of product price in Excel (Brazilian Coffee in Lower Manhattan for example)</h3>
+  <h3>Sanity Check Proof of Product Price Anomaly in Excel (Brazilian Coffee in Lower Manhattan for example)</h3>
   <img width="800" alt="sanity check lower manhattan" src="assets/1-brazilian_coffee_dec25_jan26.png" />
   <img width="800" alt="sanity check lower manhattan" src="assets/2-brazillian_coffee_jan26_feb26.png" />
   <img width="800" alt="sanity check lower manhattan" src="assets/3-brazillian_coffee_feb26_mar26.png" />
