@@ -97,23 +97,13 @@
             <strong>What was really happening :</strong> <br>
               <li> Starting from January 2026, there were some price changes for almost all of the products. Highest price change was in Lower Manhattan. For example, the price of Brazillian Organic Coffee Beans increased from 18USD in Dec 2025 to 22.68USD in Jan 2026 and rose again to 25.51USD in Feb 2026 and 28.35 in March 2026 and soared to 36.85USD in Apr 2026. The price decreased in May 2026 from 36.85 USD to 31.18USD and decreased again to 25.51USD in Jun 2026 </li>
             <li>Meanwhile in Hell's Kitchen, the price of Brazillian Organic Coffee Beans decreased from 18USD in Dec 2025 to 12.67USD in Jan 2026 but increased to 14.26USD and 15.48USD in Feb 2026 and Mar 2026. The price soared to 20.59USD in Apr 2026 before decreased to 17.42USD and 14.26USD in May 2026 and Jun 2026  </li>
-            <li>In Astoria, the price plummeted from 18USD in Dec 2025 to 8.44USD in Jan 2026 before rose steadily to 9.49USD in Feb 2026, 10.55 USD in Mar 2026 and peaked to 13.71USD in Apr 2026. Then it decreased in May 2026 to 11.60USD and again to 9.49USD in Jun 2026.</li>
+            <li>In Astoria, the price plummeted from 18USD in Dec 2025 to 8.44USD in Jan 2026 before rose steadily to 9.49USD in Feb 2026, 10.55 USD in Mar 2026 and peaked to 13.71USD in Apr 2026. Then it decreased in May 2026 to 11.60USD and again to 9.49USD in Jun 2026. See Sanity Check chapter at the end of the report</li>
           </ul>
         </li>
       </ol>
     </td>
   </tr>
 </table>
-
-<div align="center">
-  <h3>Sanity Check in Excel (Lower Manhattan for example)</h3>
-  <img width="800" alt="sanity check lower manhattan" src="assets/1-brazilian_coffee_dec25_jan26.png" />
-  <img width="800" alt="sanity check lower manhattan" src="assets/2-brazillian_coffee_jan26_feb26.png" />
-  <img width="800" alt="sanity check lower manhattan" src="assets/3-brazillian_coffee_feb26_mar26.png" />
-  <img width="800" alt="sanity check lower manhattan" src="assets/4-brazillian_coffee_mar26_apr26.png" />
-  <img width="800" alt="sanity check lower manhattan" src="assets/5-brazillian_coffee_apr26_may26.png" />
-  <img width="800" alt="sanity check lower manhattan" src="assets/6-brazillian_coffee_may26_jun26.png" />
-</div>
 
 <div align="center">
   <img width="700" src="assets/metrics_no_sales.png">
@@ -371,3 +361,12 @@
 With a total of roughly 426,000 transaction rows spanning January 2025 to June 2026. Findings above are drawn from three Power BI report pages: Sales Overview (YTD), Monthly Analysis (MTD, June 2026), and Demand & Traffic (MTD, June 2026), and every figure was independently reconciled against the raw transaction excel files.</body>
 </div>
 
+<div align="center">
+  <h3>Sanity Check in Excel (Lower Manhattan for example)</h3>
+  <img width="800" alt="sanity check lower manhattan" src="assets/1-brazilian_coffee_dec25_jan26.png" />
+  <img width="800" alt="sanity check lower manhattan" src="assets/2-brazillian_coffee_jan26_feb26.png" />
+  <img width="800" alt="sanity check lower manhattan" src="assets/3-brazillian_coffee_feb26_mar26.png" />
+  <img width="800" alt="sanity check lower manhattan" src="assets/4-brazillian_coffee_mar26_apr26.png" />
+  <img width="800" alt="sanity check lower manhattan" src="assets/5-brazillian_coffee_apr26_may26.png" />
+  <img width="800" alt="sanity check lower manhattan" src="assets/6-brazillian_coffee_may26_jun26.png" />
+</div>
